@@ -1,0 +1,5 @@
+{
+  "name": "NojiClone - AI Flashcards",
+  "description": "A production-ready Flashcard app replicating Noji UI with local storage, SRS algorithms, and Gemini AI integration for Android and Windows.",
+  "requestFramePermissions": []
+}
